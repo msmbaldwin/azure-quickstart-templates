@@ -19,4 +19,4 @@ This template creates an Confidential Ledger.
 
 Azure Confidential Ledger provides a service for logging to an immutable, tamper-proof ledger. As part of the Azure Confidential Computing portfolio, Azure Confidential Ledger runs in SGX enclaves. It is built on Microsoft Research's [Confidential Consortium Framework](https://www.microsoft.com/en-us/research/project/confidential-consortium-framework/).
 
-This template demonstrates a simple use case for creating an Confidemtial Ledger. For more information see [Quickstart: Create an Confidential Ledger with an ARM template](/azure/confidential-ledger/quickstart-template).
+This template demonstrates a simple use case for creating an Confidential Ledger. For more information see [Quickstart: Create an Confidential Ledger with an ARM template](/azure/confidential-ledger/quickstart-template).
